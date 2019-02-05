@@ -1,10 +1,9 @@
 package pruebaGithub;
 
-public class prueba {
+public class prueba2 {
 
 	public static void main(String[] args) {
-	
-		System.out.println("ola k ase");
+		// TODO Auto-generated method stub
 
 	}
 
